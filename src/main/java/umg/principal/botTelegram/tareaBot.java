@@ -1,4 +1,4 @@
-package umg.botTelegram;
+package umg.principal.botTelegram;
 
 //Importaciones para almacenar los ID en una lista
 import java.util.ArrayList;
